@@ -1,0 +1,11 @@
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\bin\Debug\net8.0\Domain.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\Domain.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Domain\obj\Debug\net8.0\ref\Domain.dll

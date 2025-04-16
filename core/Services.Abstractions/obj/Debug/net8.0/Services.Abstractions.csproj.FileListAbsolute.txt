@@ -1,0 +1,15 @@
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.deps.json
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\bin\Debug\net8.0\Services.Abstractions.pdb
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\bin\Debug\net8.0\shared.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\bin\Debug\net8.0\shared.pdb
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.AssemblyInfo.cs
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.E74F1EB6.Up2Date
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll

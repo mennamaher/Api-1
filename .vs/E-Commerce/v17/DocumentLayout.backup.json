@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\domain\\contracts\\igenaricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\contracts\\igenaricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D9459-22E1-48E4-9950-B8EE7468F244}|E-Commerce\\E-Commerce.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8D9459-22E1-48E4-9950-B8EE7468F244}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\domain\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IgenaricRepo.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Contracts\\IgenaricRepo.cs",
+              "RelativeDocumentMoniker": "core\\Domain\\Contracts\\IgenaricRepo.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Contracts\\IgenaricRepo.cs",
+              "RelativeToolTip": "core\\Domain\\Contracts\\IgenaricRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T03:08:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:24:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productType.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Entities\\productType.cs",
+              "RelativeDocumentMoniker": "core\\Domain\\Entities\\productType.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Entities\\productType.cs",
+              "RelativeToolTip": "core\\Domain\\Entities\\productType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:11:21.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
