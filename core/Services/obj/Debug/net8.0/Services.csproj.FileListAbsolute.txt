@@ -17,3 +17,4 @@ E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services\obj\Debug\net8.0\Se
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services\obj\Debug\net8.0\refint\Services.dll
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services\obj\Debug\net8.0\Services.pdb
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services\obj\Debug\net8.0\ref\Services.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services\obj\Debug\net8.0\Services.sourcelink.json

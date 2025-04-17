@@ -13,3 +13,4 @@ E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\Infrastruction\presistance\obj\De
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\Infrastruction\presistance\obj\Debug\net8.0\refint\presistance.dll
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\Infrastruction\presistance\obj\Debug\net8.0\presistance.pdb
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\Infrastruction\presistance\obj\Debug\net8.0\ref\presistance.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\Infrastruction\presistance\obj\Debug\net8.0\presistance.sourcelink.json

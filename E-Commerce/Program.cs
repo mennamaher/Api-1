@@ -4,6 +4,8 @@ using Domain.Contracts;
 using Microsoft.EntityFrameworkCore;
 using presistance;
 using presistance.Data;
+using Services.Abstractions;
+using Services;
 
 namespace E_Commerce
 {
@@ -15,18 +17,19 @@ namespace E_Commerce
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers().AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
 
             #region configire service
 
             builder.Services.AddScoped<IDBintializer, DBinitializer>();
-
+            builder.Services.AddScoped<IUnitOfWork, IUnitOfWork>();
+            builder.Services.AddAutoMapper(typeof(Services.AssemblyRefrence).Assembly);
+            builder.Services.AddScoped<IServiceManager, ServiceManager>();
             builder.Services.AddDbContext<storeContext>(options =>
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 
             });
-
 
             #endregion
 
@@ -45,6 +48,8 @@ namespace E_Commerce
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseStaticFiles();
 
             app.UseHttpsRedirection();
 

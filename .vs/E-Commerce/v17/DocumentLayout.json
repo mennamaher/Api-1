@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\domain\\contracts\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\contracts\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Specifications.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Contracts\\Specifications.cs",
+              "RelativeDocumentMoniker": "core\\Domain\\Contracts\\Specifications.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Contracts\\Specifications.cs",
+              "RelativeToolTip": "core\\Domain\\Contracts\\Specifications.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:26:41.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -9,3 +9,4 @@ E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\shared\obj\Debug\net8.0\shared.dl
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\shared\obj\Debug\net8.0\refint\shared.dll
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\shared\obj\Debug\net8.0\shared.pdb
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\shared\obj\Debug\net8.0\ref\shared.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\shared\obj\Debug\net8.0\shared.sourcelink.json

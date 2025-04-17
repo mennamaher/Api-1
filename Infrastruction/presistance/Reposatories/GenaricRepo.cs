@@ -30,7 +30,7 @@ namespace presistance.Reposatories
          => _storeContext.Set<Tentity>().Remove(entity);
 
 
-        public async Task<IEnumerable<Tentity>> GetAllAsync(bool TrackChanges)
+        public async Task<IEnumerable<Tentity>> GetAllAsync(bool TrackChanges=false)
          =>TrackChanges? await _storeContext.Set<Tentity>().ToListAsync()
             :await _storeContext.Set<Tentity>().AsNoTracking().ToListAsync();
 
@@ -38,6 +38,19 @@ namespace presistance.Reposatories
         => await _storeContext.Set<Tentity>().FindAsync(Id);
 
 
+
+        #region specification
+
+        public async Task<IEnumerable<Tentity>> GetAllWithSpecificationAsync(Specifications<Tentity> specifications)
+            => await Applyspecifications(specifications).ToListAsync();
+
+
+        public async Task<Tentity?> GetByIdlWithSpecificationAsync(Specifications<Tentity> specifications)
+            => await Applyspecifications(specifications).FirstOrDefaultAsync();
+
+            private IQueryable<Tentity> Applyspecifications(Specifications<Tentity> specifications)
+            => SpecificationEvaluator.GetQuery(_storeContext.Set<Tentity>(), specifications);
+        #endregion
 
     }
 }

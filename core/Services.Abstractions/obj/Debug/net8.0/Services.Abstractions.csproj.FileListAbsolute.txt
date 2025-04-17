@@ -13,3 +13,4 @@ E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\De
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\refint\Services.Abstractions.dll
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.pdb
 E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\ref\Services.Abstractions.dll
+E:\Rout\.Net\06 Apis\Ecommerce-back\E-Commerce\core\Services.Abstractions\obj\Debug\net8.0\Services.Abstractions.sourcelink.json
