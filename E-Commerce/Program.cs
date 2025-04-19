@@ -6,6 +6,7 @@ using presistance;
 using presistance.Data;
 using Services.Abstractions;
 using Services;
+using E_Commerce.MiddleWares;
 
 namespace E_Commerce
 {
@@ -39,6 +40,8 @@ namespace E_Commerce
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+            app.UseMiddleware<GlobalExceptionHandlingMiddleWare>();
 
             await InitializedDbAsync(app);  
 

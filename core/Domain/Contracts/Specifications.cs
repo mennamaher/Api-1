@@ -23,8 +23,25 @@ namespace Domain.Contracts
 
         #endregion
 
+        #region for paginaton
+
+        public int Skip { get; set; }
+        public int Take { get; set; }
+        public bool IsPagination { get; set; }
+
+
+
+        #endregion
+
         protected void AddInclude(Expression<Func<T, object>> expression)
             => IncludeExpressions.Add(expression);
+
+        protected void ApplyPaginaton (int pageIndex, int pageSize)
+        {
+            IsPagination = true;
+            Take = pageSize;
+            Skip = (pageIndex-1)*pageSize;
+        }
 
     }
 }
