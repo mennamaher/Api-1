@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF0C44E3-67F3-46A2-8F63-863BB9713373}|Infrastruction\\presistance\\presistance.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\infrastruction\\presistance\\reposatories\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF0C44E3-67F3-46A2-8F63-863BB9713373}|Infrastruction\\presistance\\presistance.csproj|solutionrelative:infrastruction\\presistance\\reposatories\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A81E59-0FC1-4A90-998D-7B5580B7ED52}|shared\\shared.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\shared\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A81E59-0FC1-4A90-998D-7B5580B7ED52}|shared\\shared.csproj|solutionrelative:shared\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A8D9459-22E1-48E4-9950-B8EE7468F244}|E-Commerce\\E-Commerce.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\e-commerce\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A8D9459-22E1-48E4-9950-B8EE7468F244}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD47DB77-E8F7-415E-A19A-487876AFA5E7}|Infrastruction\\Presentation\\Presentation.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\infrastruction\\presentation\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD47DB77-E8F7-415E-A19A-487876AFA5E7}|Infrastruction\\Presentation\\Presentation.csproj|solutionrelative:infrastruction\\presentation\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\specifications\\productwithbrandandproductspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\specifications\\productwithbrandandproductspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{215ACFB8-BE10-49CC-BE4A-10679D6B2C3B}|core\\Services.Abstractions\\Services.Abstractions.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services.abstractions\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215ACFB8-BE10-49CC-BE4A-10679D6B2C3B}|core\\Services.Abstractions\\Services.Abstractions.csproj|solutionrelative:core\\services.abstractions\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\domain\\exceptions\\product\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\product\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A81E59-0FC1-4A90-998D-7B5580B7ED52}|shared\\shared.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\shared\\modelerrors\\errorsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A81E59-0FC1-4A90-998D-7B5580B7ED52}|shared\\shared.csproj|solutionrelative:shared\\modelerrors\\errorsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductWithBrandAndProductSpecification.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\Specifications\\ProductWithBrandAndProductSpecification.cs",
-              "RelativeDocumentMoniker": "core\\Services\\Specifications\\ProductWithBrandAndProductSpecification.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\Specifications\\ProductWithBrandAndProductSpecification.cs",
-              "RelativeToolTip": "core\\Services\\Specifications\\ProductWithBrandAndProductSpecification.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAApwBMAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\Infrastruction\\Presentation\\BasketController.cs",
+              "RelativeDocumentMoniker": "Infrastruction\\Presentation\\BasketController.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\Infrastruction\\Presentation\\BasketController.cs",
+              "RelativeToolTip": "Infrastruction\\Presentation\\BasketController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:46:04.963Z",
+              "WhenOpened": "2025-04-19T19:18:21.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SpecificationEvaluator.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\Infrastruction\\presistance\\Reposatories\\SpecificationEvaluator.cs",
-              "RelativeDocumentMoniker": "Infrastruction\\presistance\\Reposatories\\SpecificationEvaluator.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\Infrastruction\\presistance\\Reposatories\\SpecificationEvaluator.cs",
-              "RelativeToolTip": "Infrastruction\\presistance\\Reposatories\\SpecificationEvaluator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAwAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "core\\Services\\ServiceManager.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "core\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:45:55.846Z",
+              "WhenOpened": "2025-04-19T19:14:14.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "core\\Domain\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "core\\Domain\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services.Abstractions\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "core\\Services.Abstractions\\IServiceManager.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services.Abstractions\\IServiceManager.cs",
+              "RelativeToolTip": "core\\Services.Abstractions\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:29:48.705Z",
+              "WhenOpened": "2025-04-19T19:13:16.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "core\\Services\\ProductService.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\ProductService.cs",
-              "RelativeToolTip": "core\\Services\\ProductService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCsAAABLAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\shared\\BasketDto.cs",
+              "RelativeDocumentMoniker": "shared\\BasketDto.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\shared\\BasketDto.cs",
+              "RelativeToolTip": "shared\\BasketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:25:21.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GlobalExceptionHandlingMiddleWare.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "RelativeToolTip": "E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAhwCUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T23:42:09.68Z",
+              "WhenOpened": "2025-04-19T19:11:18.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "productNotFoundException.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Exceptions\\product\\productNotFoundException.cs",
-              "RelativeDocumentMoniker": "core\\Domain\\Exceptions\\product\\productNotFoundException.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Exceptions\\product\\productNotFoundException.cs",
-              "RelativeToolTip": "core\\Domain\\Exceptions\\product\\productNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Title": "BasketProfile.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\MappingProfiles\\BasketProfile.cs",
+              "RelativeDocumentMoniker": "core\\Services\\MappingProfiles\\BasketProfile.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\MappingProfiles\\BasketProfile.cs",
+              "RelativeToolTip": "core\\Services\\MappingProfiles\\BasketProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:32:49.472Z",
+              "WhenOpened": "2025-04-19T03:21:49.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErrorsDetails.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\shared\\ModelErrors\\ErrorsDetails.cs",
-              "RelativeDocumentMoniker": "shared\\ModelErrors\\ErrorsDetails.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\shared\\ModelErrors\\ErrorsDetails.cs",
-              "RelativeToolTip": "shared\\ModelErrors\\ErrorsDetails.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwA8AAAApAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "core\\Services\\BasketService.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\BasketService.cs",
+              "RelativeToolTip": "core\\Services\\BasketService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T23:52:18.579Z",
+              "WhenOpened": "2025-04-19T03:09:27.374Z",
               "EditorCaption": ""
             }
           ]
