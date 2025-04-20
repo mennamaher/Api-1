@@ -36,7 +36,10 @@ namespace E_Commerce.MiddleWares
             httpContext.Response.StatusCode = exception switch
             {
                 NotFoundException => (int)HttpStatusCode.NotFound,
-                    => (int)HttpStatusCode.InternalServerError
+                UnAuthorizedException=> (int)HttpStatusCode.Unauthorized,
+                RegisterValidationException => (int)HttpStatusCode.Unauthorized,
+
+                    _=> (int)HttpStatusCode.InternalServerError
             };
 
             var response = new ErrorsDetails

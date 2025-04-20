@@ -10,7 +10,7 @@ namespace presistance.Reposatories
 {
     public static class SpecificationEvaluator
     {
-        public static IQueryable<T> Query <T>
+        public static IQueryable<T> GetQuery <T>
             (
             IQueryable<T>inputQuery,
             Specifications<T> specifications
