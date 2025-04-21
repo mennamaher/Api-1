@@ -35,5 +35,6 @@ namespace Services
         T Map<T>(CustomerBasket basket);
         object Map<T>(BasketDto basket);
         T Map<T>(object basketDto);
+        object Map<T>(object shippingAdress);
     }
 }

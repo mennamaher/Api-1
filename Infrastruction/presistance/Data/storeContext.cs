@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
+using Domain.Entities.OrderEntity;
 using Microsoft.EntityFrameworkCore;
 
 namespace presistance.Data
@@ -24,6 +25,9 @@ namespace presistance.Data
         public DbSet<productBrand> brands { get; set; }
         public DbSet<productType> types { get; set; }
 
+        public DbSet<Order> orders { get; set; }
+        public DbSet<OrderItem> ordersItem { get; set; }
+        public DbSet<DeliveryMethod> deliveryMethods { get; set; }
         #endregion
     }
 }

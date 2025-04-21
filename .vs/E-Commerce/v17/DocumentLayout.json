@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A8D9459-22E1-48E4-9950-B8EE7468F244}|E-Commerce\\E-Commerce.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\e-commerce\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A8D9459-22E1-48E4-9950-B8EE7468F244}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\middlewares\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\domain\\exceptions\\registervalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A3F8A1-DE60-462C-9730-59CAD568097C}|core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\exceptions\\registervalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|e:\\rout\\.net\\06 apis\\ecommerce-back\\e-commerce\\core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB116E8-AC32-4806-A743-51A4D785896A}|core\\Services\\Services.csproj|solutionrelative:core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GlobalExceptionHandlingMiddleWare.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "RelativeToolTip": "E-Commerce\\MiddleWares\\GlobalExceptionHandlingMiddleWare.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA6wCoAAAAOAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "core\\Services\\OrderService.cs",
+              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\OrderService.cs",
+              "RelativeToolTip": "core\\Services\\OrderService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T00:32:24.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterValidationException.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Exceptions\\RegisterValidationException.cs",
-              "RelativeDocumentMoniker": "core\\Domain\\Exceptions\\RegisterValidationException.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Domain\\Exceptions\\RegisterValidationException.cs",
-              "RelativeToolTip": "core\\Domain\\Exceptions\\RegisterValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T00:24:48.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "core\\Services\\AuthenticationService.cs",
-              "ToolTip": "E:\\Rout\\.Net\\06 Apis\\Ecommerce-back\\E-Commerce\\core\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "core\\Services\\AuthenticationService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwDUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:48:28.186Z",
+              "WhenOpened": "2025-04-21T19:01:10.749Z",
               "EditorCaption": ""
             }
           ]

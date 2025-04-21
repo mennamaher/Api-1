@@ -12,6 +12,6 @@ namespace Domain.Contracts
         public Task<CustomerBasket?> GetBasketAsync(string id);
         public Task<CustomerBasket?> updateBasketAsync(CustomerBasket basket, TimeSpan? timeSpan=null);
         public Task<bool> DeleteBasketAsync(string id);
-
+        Task GetBasketAsync(Guid id);
     }
 }
